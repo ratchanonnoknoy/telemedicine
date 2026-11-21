@@ -1,6 +1,6 @@
 ## Overview
 
-Reduced registration-related calls by 80% allowing 4 out of 5 patients to register without calling hospital staff. Built the system with Next.js, Google Apps Script and Google Sheets. Implemented nurse notifications via the LINE Messaging API and CI/CD using free-tier cloud services.
+Reduced registration calls and OPD workflow steps by approximately 90%, with adoption by the Mayor of Kamphaeng Phet City, benefiting approximately 40,000 residents.
 
 ## System Architecture
 
