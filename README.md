@@ -1,6 +1,6 @@
 ## Overview
 
-Engineered an OPD registration automation system that reduced registration calls and administrative workflow steps by approximately **90%**.
+Achieved **83%** self-service patient registration adoption without staff assistance.
 
 Adopted by the Mayor of Kamphaeng Phet Municipality, with an estimated impact on **40,000 residents**.
 
