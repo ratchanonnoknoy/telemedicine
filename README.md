@@ -15,7 +15,7 @@ flowchart TD
 
 ## Notification Preview
 
-Automated Registration Notifications with **24/7** Real-Time Alerts for Senior Professional Nurses
+Automated Registration Notifications with **24/7** Real-Time Alerts for [Senior Professional Nurses](https://www.kppmu.go.th/personnel?dpm=7&page=2)
 
 ![LINE Messaging Notification](https://res.cloudinary.com/dpa96jvla/image/upload/v1779584919/%E0%B8%94%E0%B8%B5%E0%B9%84%E0%B8%8B%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD_1_v8yqdd.png)
 
