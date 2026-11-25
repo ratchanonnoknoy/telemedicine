@@ -1,7 +1,8 @@
 ## Overview
 
-- Achieved **83%** self-service patient registration adoption without staff assistance.
-- Adopted by the Mayor of Kamphaeng Phet Municipality, with an estimated impact on **40,000 residents**.
+[![Official Project Publication](https://res.cloudinary.com/dpa96jvla/image/upload/v1789533029/1747791924700_124000_g4_vc7jbg.jpg)](https://www.kppmu.go.th/news-detail?hd=1&id=124000)
+
+[View Official Publication →](https://www.kppmu.go.th/news-detail?hd=1&id=124000)
 
 ## System Architecture
 
@@ -26,11 +27,3 @@ Automated registration notifications are delivered to nursing staff through the 
 - **Backend:** Google Apps Script
 - **Data Storage:** Google Sheets
 - **Messaging:** LINE Messaging API
-
-## Recognition & Adoption
-
-Adopted by the Mayor of Kamphaeng Phet Municipality.
-
-[![Official Project Publication](https://res.cloudinary.com/dpa96jvla/image/upload/v1789533029/1747791924700_124000_g4_vc7jbg.jpg)](https://www.kppmu.go.th/news-detail?hd=1&id=124000)
-
-[View Official Publication →](https://www.kppmu.go.th/news-detail?hd=1&id=124000)
